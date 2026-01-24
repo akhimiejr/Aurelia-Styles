@@ -1,2 +1,2 @@
 # Aurelia-Styles
-Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro- contemporary apparel, footwear, and accessories. With stores across multiple regions  in Nigeria, the company serves a diverse customer base segmented by age, gender, and loyalty status (VIP vs Regular). 
+Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro-contemporary apparel, footwear, and accessories. With stores across multiple regionsin Nigeria, the company serves a diverse customer base segmented by age, gender, and loyalty status (VIP vs Regular). Aurelia Styles prides itself on blending traditional Nigerian designs with modern fashion trends, offering products that cater to both everyday wear and special occasions.
