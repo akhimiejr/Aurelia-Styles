@@ -20,7 +20,7 @@ promotions that drive engagement and loyalty.
 - Support inventory management, marketing strategies, and business growth through data-driven analysis.
 - Analyze customer segments and understand purchasing behavior.
 # 1.3 Data Description
-- 1. Product Table Contains information about each product, including:
+- i. Product Table Contains information about each product, including:
 - product_id – Unique identifier for each product
 - product_name – Name of the product
 - product_category – Category of the product (e.g., Footwear,
