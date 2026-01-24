@@ -119,7 +119,7 @@ The expected output is a summary table displaying each sales channel alongside i
 <img width="512" height="283" alt="Screenshot 2026-01-24 151123" src="https://github.com/user-attachments/assets/38b97f27-34bf-4a5e-953e-816f23c85aea" />
 
 The intended output of this query is a summary table showing two rows, one for discounted transactions and one for non-discounted transactions, each with its corresponding total net sales 📊. This enables a direct assessment of how much revenue is generated through discounting activity versus standard pricing.
--The insight derived from this analysis supports pricing and promotional strategy decisions 🎯. If discounted transactions contribute a significant proportion of net sales, this may indicate that promotions are an effective driver of volume. However, if non-discounted sales dominate, it suggests strong price resilience and potential opportunities to reduce reliance on discounts while protecting margins.
+- The insight derived from this analysis supports pricing and promotional strategy decisions 🎯. If discounted transactions contribute a significant proportion of net sales, this may indicate that promotions are an effective driver of volume. However, if non-discounted sales dominate, it suggests strong price resilience and potential opportunities to reduce reliance on discounts while protecting margins.
 
 ## Second Out-Put
 
