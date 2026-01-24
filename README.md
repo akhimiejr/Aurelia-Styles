@@ -104,7 +104,7 @@ The intended output of this query is a ranked list of the top five stores, inclu
 <img width="527" height="207" alt="image" src="https://github.com/user-attachments/assets/ee32d725-5431-4166-859b-a01ec98c1c40" />
 
 The expected output is a summary table displaying each sales channel alongside its total net sales 📊. While the query limits the result set to a single row, the intention is to identify the highest-performing sales channel in terms of revenue generation.
- -The insight derived from this analysis supports channel strategy and investment decisions 🚀. Understanding which channel delivers the greatest revenue enables the business to focus resources on the most effective routes to market, whether through digital platforms, physical stores, or third-party partnerships. It also informs future decisions around channel expansion, optimisation, and customer engagement strategies, ensuring sustained revenue growth and operational efficiency
+ - The insight derived from this analysis supports channel strategy and investment decisions 🚀. Understanding which channel delivers the greatest revenue enables the business to focus resources on the most effective routes to market, whether through digital platforms, physical stores, or third-party partnerships. It also informs future decisions around channel expansion, optimisation, and customer engagement strategies, ensuring sustained revenue growth and operational efficiency
 
 ## Codes III
 
