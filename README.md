@@ -96,7 +96,7 @@ The output summarises total net sales by customer segment 📊, allowing us to c
 
 <img width="712" height="345" alt="Screenshot 2026-01-24 145050" src="https://github.com/user-attachments/assets/9d7e9cc7-b050-400e-bd14-c24a96fd97f3" />
 
-The intended output of this query is a ranked list of the top five stores, including their associated regions and total net sales 💷. This output provides a concise and targeted view of where the strongest sales performance is occurring geographically and operationally. For stakeholders, this offers immediate visibility into which locations are delivering the greatest commercial impact.
+The intended output of this query is a ranked list of the top five stores, including their associated regions and total net sales 💷. This output provides a concise and targeted view of where the strongest sales performance is occurring geographically and operationally. For stakeholders, this offers immediate visibility into which locations are delivering the greatest commercial impact. 
 - The insights generated from this analysis are critical for location-based decision-making 🎯. Identifying top-performing stores and regions supports strategic actions such as prioritising investment, optimising staffing levels, expanding successful regional models, and replicating best practices across underperforming locations. It also enables leadership to assess regional performance disparities and respond with data-driven interventions where required.
 
 ## Second Out-Put
