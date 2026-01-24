@@ -107,3 +107,30 @@ The expected output is a summary table displaying each sales channel alongside i
  -The insight derived from this analysis supports channel strategy and investment decisions 🚀. Understanding which channel delivers the greatest revenue enables the business to focus resources on the most effective routes to market, whether through digital platforms, physical stores, or third-party partnerships. It also informs future decisions around channel expansion, optimisation, and customer engagement strategies, ensuring sustained revenue growth and operational efficiency
 
 ## Codes III
+
+<img width="948" height="677" alt="Screenshot 2026-01-24 150546" src="https://github.com/user-attachments/assets/dcbde3ee-0455-4ac9-8ae5-34df88c86c6b" />
+
+- The first query compares net sales generated from discounted versus non-discounted transactions 💷. It uses a CASE statement to categorise each sale based on whether a discount was applied, classifying transactions as either Discounted or Not Discounted. The query then aggregates the net sales amount for each category by summing the relevant values and grouping the results by discount status. This approach provides a clear comparison of revenue performance between promotional and full-price sales.
+- The second query identifies which customers appear most frequently and how much they spend over time 👥. By joining the sales and customers tables, each transaction is linked to the relevant customer. The query then calculates total spend per customer using the SUM function and measures purchase frequency by counting the number of transactions. Results are grouped by customer and ordered by total spend in descending order.
+- The third query assesses which product categories perform best across stores by aggregating net sales at the product category level 🛍️. By joining sales data with both store and product information, the query ensures that sales are accurately attributed to the relevant product categories. The aggregation of net sales provides a clear measure of category-level performance.
+
+## First Out-Put
+
+<img width="512" height="283" alt="Screenshot 2026-01-24 151123" src="https://github.com/user-attachments/assets/38b97f27-34bf-4a5e-953e-816f23c85aea" />
+
+The intended output of this query is a summary table showing two rows, one for discounted transactions and one for non-discounted transactions, each with its corresponding total net sales 📊. This enables a direct assessment of how much revenue is generated through discounting activity versus standard pricing.
+-The insight derived from this analysis supports pricing and promotional strategy decisions 🎯. If discounted transactions contribute a significant proportion of net sales, this may indicate that promotions are an effective driver of volume. However, if non-discounted sales dominate, it suggests strong price resilience and potential opportunities to reduce reliance on discounts while protecting margins.
+
+## Second Out-Put
+
+<img width="828" height="327" alt="Screenshot 2026-01-24 151400" src="https://github.com/user-attachments/assets/a9dd7365-e7de-45bb-8805-1c2304470063" />
+
+The expected output is a ranked list of customers showing customer identifiers, customer names, total amount spent, and total number of transactions 📈. This output highlights the customers who contribute most significantly to revenue and who engage most frequently with the business.
+- The insights generated are highly valuable for customer relationship management and retention strategy 🔍. This analysis identifies high-value and loyal customers who may benefit from targeted engagement, personalised offers, or loyalty incentives. It also supports risk management by highlighting revenue concentration among key customers.
+
+## Third Out-Put
+
+<img width="548" height="330" alt="Screenshot 2026-01-24 151557" src="https://github.com/user-attachments/assets/198c1a1c-12d6-4a67-a899-4aa915f444c9" />
+
+The intended output of this query is a table showing each product category alongside its total net sales 💷. This allows for straightforward comparison of category performance across the retail estate.
+- The insight generated from this analysis informs merchandising and assortment strategy 🚀. Understanding which categories perform best supports decisions around stock allocation, space planning, and category-specific promotions. It also enables the business to align product strategy with customer demand patterns, supporting sustainable revenue growth and improved operational efficiency.
