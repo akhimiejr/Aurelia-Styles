@@ -50,3 +50,13 @@ promotions that drive engagement and loyalty.
 - order_status – Status of the order (e.g., Completed)
 - date – Transaction date
 - channel_id – Sales channel (InStore, Online, Mobile App)
+# 2.Analysis
+## 2.1 Problem Statement
+Aurelia Styles collects large volumes of transactional data from multiple stores, products, customers, and sales
+channels. However, this data is underutilized, making it difficult for management to monitor sales performance,
+understand customer behavior, and identify trends across products and regions.
+Without effective analysis, the company struggles to make data-driven decisions on inventory management,
+promotions, and store operations, which can impact revenue, customer satisfaction, and overall business
+growth. This case study aims to help learners use SQL to transform raw data into actionable insights, enabling Aurelia
+Styles to track KPIs, analyze sales and customer segments, and support informed business decisions.
+## 2.2 Rationale for the Project
