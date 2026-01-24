@@ -20,26 +20,26 @@ promotions that drive engagement and loyalty.
 - Support inventory management, marketing strategies, and business growth through data-driven analysis.
 - Analyze customer segments and understand purchasing behavior.
 # 1.3 Data Description
-#### 1. Product Table Contains information about each product, including:
+#### i. Product Table Contains information about each product, including:
 - product_id – Unique identifier for each product
 - product_name – Name of the product
 - product_category – Category of the product (e.g., Footwear,
 - Traditional Attire, Accessories)
-#### 2.Stores TableProvides details about store locations, including:
+#### ii. Stores Table Provides details about store locations, including:
 - store_id – Unique store identifier
 - store_name – Name of the store
 - region – Geographic region of the store
 - state – State where the store is located
-#### 3.Customer Table Contains details about each customer, including:
+#### iii .Customer Table Contains details about each customer, including:
 - customer_id – Unique identifier for each customer
 - customer_name – Customer’s full name
 - gender – Gender of the customer
 - age_group – Age segment (Youth, Adult, Older)
 - segment – Loyalty status (VIP, Regular)
-#### Channels Table Contains information about the sales channels:
+#### iv. Channels Table Contains information about the sales channels:
 - channel_id – Unique identifier for each channel
 - channel_type – Type of channel (InStore, Online, Mobile App)
-#### Sales Table Contains transactional sales data, including:
+#### v. Sales Table Contains transactional sales data, including:
 - sale_id – Unique identifier for each transaction
 - customer_id & product_id – Links to customers and products
 - store_id – Store where the sale occurred
