@@ -63,8 +63,8 @@ Styles to track KPIs, analyze sales and customer segments, and support informed 
 
 <img width="898" height="451" alt="Screenshot 2026-01-24 140339" src="https://github.com/user-attachments/assets/6eb97150-4651-45c3-87a6-eeb8f4baf171" />
 
-# Database Queries and Out-Put
-## Codes I
+# 3. Database Queries and Out-Put
+## 3.1 Codes I
 
 <img width="844" height="475" alt="Screenshot 2026-01-24 141654" src="https://github.com/user-attachments/assets/6eeeb378-02d7-4d98-9df9-3f0cfc1cea72" />
 
@@ -85,7 +85,7 @@ The resulting output presents each product category alongside its total net sale
 The output summarises total net sales by customer segment 📊, allowing us to clearly assess which group contributes more significantly to overall revenue. This comparison supports an evidence-based evaluation of customer value across the business.
 - From an insight perspective, this analysis informs customer engagement and retention strategies 🔍. A stronger revenue contribution from VIP customers would reinforce the importance of loyalty programmes and personalised incentives. Alternatively, a substantial contribution from Regular customers may indicate opportunities to drive growth through targeted upselling or segment conversion initiatives. Collectively, these insights support data-driven decision-making, improved customer strategy, and sustainable revenue growth 🚀.
 
-## Codes II
+## 3.2 Codes II
 
 <img width="821" height="567" alt="Screenshot 2026-01-24 144346" src="https://github.com/user-attachments/assets/e29de22e-51c1-491f-a003-f88583d4123f" />
 
@@ -106,7 +106,7 @@ The intended output of this query is a ranked list of the top five stores, inclu
 The expected output is a summary table displaying each sales channel alongside its total net sales 📊. While the query limits the result set to a single row, the intention is to identify the highest-performing sales channel in terms of revenue generation.
  - The insight derived from this analysis supports channel strategy and investment decisions 🚀. Understanding which channel delivers the greatest revenue enables the business to focus resources on the most effective routes to market, whether through digital platforms, physical stores, or third-party partnerships. It also informs future decisions around channel expansion, optimisation, and customer engagement strategies, ensuring sustained revenue growth and operational efficiency
 
-## Codes III
+## 3.3 Codes III
 
 <img width="948" height="677" alt="Screenshot 2026-01-24 150546" src="https://github.com/user-attachments/assets/dcbde3ee-0455-4ac9-8ae5-34df88c86c6b" />
 
